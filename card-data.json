@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-28T22:39:20.748Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Bespoke IT Solutions",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": null,
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "161 Fleet Road, Fleet",
+      "city": "",
+      "state": "",
+      "postal": "GU51 3PD",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/nzJsBN4D/Untitled-design-2026-04-28T231347-386.png",
+      "shareImg": "https://i.postimg.cc/nzJsBN4D/Untitled-design-2026-04-28T231347-386.png",
+      "bookMarkImg": "https://i.postimg.cc/nzJsBN4D/Untitled-design-2026-04-28T231347-386.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#1f185b",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#1f185b",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#1f185b",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "01252 984430",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "salesteam@bespokeitsolutions.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://bespokeitsolutions.com/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://www.google.com/maps/place/Bespoke+IT+Solutions+Ltd/@51.2830199,-0.8396388,17z/data=!3m1!4b1!4m6!3m5!1s0x48742b76540b9ee9:0x16facaa9c153d506!8m2!3d51.2830199!4d-0.8396388!16s%2Fg%2F11h4czctlb?entry=ttu&g_ep=EgoyMDI2MDQyMS4wIKXMDSoASAFQAw%3D%3D",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/company/bespoke-it-solutions-uk",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/BespokeITSolutions/",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/bespokeitsolutions/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "twitter",
+        "placeholder": "https://twitter.com/UserName",
+        "value": "https://x.com/bespokeitsolut1",
+        "color": "#000",
+        "label": "Your Twitter URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Click here for a FREE IT AUDIT",
+            "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=BCohI7NA3kqBAfaAT3VKtnBcorvuV4FCvT2ZvrxnNhFUOVZMVVdCOTJOVzBVVlk3SkozUEVSNlZGSC4u&route=shorturl",
+            "contentType": "customButton"
+          },
+          {
+            "label": "Review us on Google!",
+            "link": "https://search.google.com/local/writereview?placeid=ChIJ6Z4LVHYrdEgRBtVTwanK-hY",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
